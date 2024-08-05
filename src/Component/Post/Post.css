@@ -1,0 +1,32 @@
+.heart-icon {
+  font-size: 22px;
+  color: white;
+  float: left;
+  margin-top: -3px;
+}
+.fil-heart {
+  margin-top: -3px;
+  float: left;
+  font-size: 22px;
+  color: red;
+}
+.height {
+  height: 30px;
+  width: 90px;
+}
+.noLikes {
+  float: left;
+  margin-top: -5px;
+}
+.delete-icon {
+  font-size: 25px;
+  color: #0b5ed7;
+  cursor: pointer;
+}
+.card-body {
+  margin-top: -15px;
+}
+.card-size {
+  height: 500px;
+  width: 50%;
+}

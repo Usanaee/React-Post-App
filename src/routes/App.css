@@ -1,0 +1,10 @@
+.app-container {
+  display: flex;
+}
+.flexColume-container {
+  width: 100%;
+}
+.sidebar {
+  height: 100vh;
+}
+/* <img src={logo} alt="" /> */
