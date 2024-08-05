@@ -19,8 +19,8 @@ function App() {
         <div className="flexColume-container">
           <Header />
           {/* {selectTab === "Home" ? <PostList /> : <CreatePost />} */}
-          <Fotter />
           <Outlet />
+          <Fotter />
         </div>
       </PostListProvider>
     </div>
